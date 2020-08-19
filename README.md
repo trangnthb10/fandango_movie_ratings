@@ -19,5 +19,6 @@ However, the data sets we have are not good representative of our interests. We 
 New goal: the difference in ratings pattern of *popular movies* in 2015 and 2016.
 
 **Data sets**
+
 Hickey's dataset in [2015](https://github.com/fivethirtyeight/data/tree/master/fandango)<br>
 Dataquest's dataset in [2016](https://github.com/mircealex/Movie_ratings_2016_17)
